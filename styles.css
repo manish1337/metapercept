@@ -1,0 +1,28 @@
+.title {
+  display: grid;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 3rem;
+}
+
+.footer {
+  display: flex;
+  margin-right: 0%;
+}
+
+h5 {
+  margin-left: 1%;
+}
+h2 {
+  margin-right: 70%;
+}
+
+.navbar button {
+  margin-left: 1%;
+}
+
+a {
+  margin: 1rem;
+  margin-left: 86%;
+}
